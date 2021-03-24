@@ -1,5 +1,5 @@
 # Bitcoin-price-prediction
-![Bitcoin header image](https://drive.google.com/file/d/1S3WGpm1Brk9oY1SfAExCHaU3z_1-Gn0Q/view?usp=sharing)
+
 This ML project predicts the closing bitcoin prices at the end of a 60 seconds time window
 
 ## Dataset Explanation
