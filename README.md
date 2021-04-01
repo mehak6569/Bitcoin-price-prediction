@@ -8,7 +8,7 @@ Bitcoin is the longest running and most well known cryptocurrency, first release
 
 Following is the description of the columns included in this dataset.
 
-* **Timestamp** 
+* **Timestamp** :
   Start time of time window (60s window)
 
 * **Open** :
